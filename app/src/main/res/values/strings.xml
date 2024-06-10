@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserAddreessBDBootcamp</string>
+    <string name="agregar_direcciones">Agregar Direcciones</string>
+    <string name="lista_direcciones">Lista Direcciones</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="agregar_usuario">Agregar Usuario</string>
+    <string name="lista_de_usuarios">Lista de Usuarios</string>
+    <string name="nombre_usuario">Nombre Usuario</string>
+</resources>
